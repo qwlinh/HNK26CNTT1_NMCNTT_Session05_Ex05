@@ -1,7 +1,7 @@
 ## 1. Sơ đồ luồng IPO (Input – Process – Output)
 Plaintext
 
-INPUT: Dữ liệu file thô hổn độn nằm trong thư mục Downloads của máy chủ
+INPUT: Dữ liệu file thô hổn độn nằm trong thư mục Downloads của máy chủ 
 
 
 PROCESS:
